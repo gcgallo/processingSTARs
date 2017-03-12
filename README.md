@@ -1,6 +1,6 @@
 # processingSTARs
 
-A version of the Elementary Cellular Automata algorithm written in the processing language. 
+A version of the Elementary Cellular Automata algorithm written in the processing language.   
 Originally written in C. Translated to Processing. To be converted to p5.js.
 
 Still a work in progress. Can be run using Processing 3 IDE
